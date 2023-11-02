@@ -1,0 +1,43 @@
+C:\Users\Juana\source\repos\AppCarpooling\bin\Debug\net6.0\AppCarpooling.exe
+C:\Users\Juana\source\repos\AppCarpooling\bin\Debug\net6.0\AppCarpooling.deps.json
+C:\Users\Juana\source\repos\AppCarpooling\bin\Debug\net6.0\AppCarpooling.runtimeconfig.json
+C:\Users\Juana\source\repos\AppCarpooling\bin\Debug\net6.0\AppCarpooling.dll
+C:\Users\Juana\source\repos\AppCarpooling\bin\Debug\net6.0\AppCarpooling.pdb
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfoInputs.cache
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfo.cs
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.csproj.CoreCompileInputs.cache
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.dll
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\refint\AppCarpooling.dll
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.pdb
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\AppCarpooling.genruntimeconfig.cache
+C:\Users\Juana\source\repos\AppCarpooling\obj\Debug\net6.0\ref\AppCarpooling.dll
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\bin\Debug\net6.0\AppCarpooling.exe
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\bin\Debug\net6.0\AppCarpooling.deps.json
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\bin\Debug\net6.0\AppCarpooling.runtimeconfig.json
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\bin\Debug\net6.0\AppCarpooling.dll
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\bin\Debug\net6.0\AppCarpooling.pdb
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfo.cs
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.dll
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\refint\AppCarpooling.dll
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.pdb
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\AppCarpooling.genruntimeconfig.cache
+C:\Users\ASUS\Documents\PROGRAMACION ORIENTADA A OBJETOS\AppCarpooling\AppCarpooling\obj\Debug\net6.0\ref\AppCarpooling.dll
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\bin\Debug\net6.0\AppCarpooling.exe
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\bin\Debug\net6.0\AppCarpooling.deps.json
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\bin\Debug\net6.0\AppCarpooling.runtimeconfig.json
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\bin\Debug\net6.0\AppCarpooling.dll
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\bin\Debug\net6.0\AppCarpooling.pdb
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfoInputs.cache
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.AssemblyInfo.cs
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.csproj.CoreCompileInputs.cache
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.dll
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\refint\AppCarpooling.dll
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.pdb
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\AppCarpooling.genruntimeconfig.cache
+C:\Users\Juana\OneDrive - UPB\Documents\POO\AppCarpooling\obj\Debug\net6.0\ref\AppCarpooling.dll

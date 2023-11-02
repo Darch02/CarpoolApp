@@ -1,0 +1,5 @@
+Maryangela,blanco,123gpe,mazda,cx-90,4
+ana,negro,123edr,mazda,2,3
+Daniel,negro,aaa123,jeep,2019,4
+prueba,negro,´der980,ford,fiesta,2
+juana,gris,mox278,renault,sandero,3

@@ -1,0 +1,5 @@
+Maryangela,490985,maryangela.balcarcel@upb.edu.co,2005,3006840893,si
+ana,400,ana@email.com,2006,300,si
+Daniel,123,daniel@pendejo.com},123,3444,si
+prueba,6809,prueba@email.com,123,300,si
+juana,446202,juana@upb.edu.co,206003,3046566468,si

@@ -1,0 +1,4 @@
+Daniel,upb,casita,1000,Pendiente,1
+Maryangela,casa1,casa2,10000,Pendiente,2
+juana,urbanizacion parque de san carlos,upb,16000,Pendiente,2
+juana,viva exito,upb robledo,20000,Pendiente,1
